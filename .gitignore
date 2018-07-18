@@ -75,3 +75,8 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/Group_Project/Intermediate/CachedAssetRegistry.bin
+/Group_Project/Saved/AutoScreenshot.png
+/Group_Project/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+/Group_Project/Saved/Logs/Group_Project.log
+/Group_Project/Saved/Logs/Group_Project_2.log
